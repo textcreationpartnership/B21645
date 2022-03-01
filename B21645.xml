@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Second sermon preach'd before the King and Queen and Queen Dowager in Their Majesties chappel at St. James's upon All-Saints Day, November 1, 1685 by ... Ph. Ellis, monk of the holy order of S. Benedict and of the English Congr.</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21645</idno>
+            <idno type="STC">Wing E597</idno>
+            <idno type="EEBO-CITATION">11230025</idno>
+            <idno type="OCLC">ocm 11230025</idno>
+            <idno type="VID">204919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Second sermon preach'd before the King and Queen and Queen Dowager in Their Majesties chappel at St. James's upon All-Saints Day, November 1, 1685 by ... Ph. Ellis, monk of the holy order of S. Benedict and of the English Congr.</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>All Saints' Day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204919:1"/>
+            <pb facs="tcp:204919:1"/>
+            <p>Second SERMON Preach'd before the King and Queen, AND QUEEN DOWAGER, In Their MAJESTIES Chappel at St. <hi>James</hi>'s, upon <hi>All-Saints</hi> Day, <hi>November</hi> 1. 1685.</p>
+            <p>By the Reverend Father <hi>Dom. PH. ELLIS,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congr.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204919:2"/>
+            <pb n="1" facs="tcp:204919:2"/>
+            <head>SECOND SERMON Preach'd before the KING and QUEEN, AND <hi>Q<g ref="char:V">Ʋ</g>EEN DOWAGER,</hi> On <hi>All-Saints</hi> Day, <hi>Nov.</hi> 1. 1685.</head>
+            <epigraph>
+               <q>Gaudete, &amp; exultate, quia merces veſtra copioſa eſt in coelis. <bibl>
+                     <hi>Matth.</hi> 5.12.</bibl>
+               </q>
+               <q>
+                  <hi>Rejoyce, and be exceeding glad, for great is your reward in heaven.</hi> 
+                  <bibl>Matth. 5.12.</bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is more then Eight hun<g ref="char:EOLhyphen"/>dred Years (moſt Sacred Majeſty) ſince the Church <hi>Militant,</hi> the Parent as well as Siſter of the Church <hi>Tri<g ref="char:EOLhyphen"/>umphant,</hi> condeſcending to pious Inſtances of her Children tending to Perfection, ap<g ref="char:EOLhyphen"/>pointed
+<pb n="2" facs="tcp:204919:3"/>this Solemnity for our encou<g ref="char:EOLhyphen"/>ragement, and in memory of <hi>the juſt made perfect.</hi> And tho' a Feaſt of this Deno<g ref="char:EOLhyphen"/>mination be not ſo much recommended for its Antiquity, as for the <hi>Piety,</hi> which is always ſeaſonable, and the <hi>fitneſs</hi> of its In<g ref="char:EOLhyphen"/>ſtitution;
+<note place="margin">Pſal. 150.1.</note> yet it is no new thing <hi>to praiſe God in his Saints,</hi> as the Royal Prophet ex<g ref="char:EOLhyphen"/>horts;
+<note place="margin">Hebr. 6.10.</note> nor <hi>to miniſter to them</hi> while living (as the Apoſtle adviſes) nor after their de<g ref="char:EOLhyphen"/>parture to erect Altars to Almighty God under their Invocation, crown'd with Gar<g ref="char:EOLhyphen"/>lands, and ecchoing with Hymns of Joy, on the Anniverſary Days of their Depoſi<g ref="char:EOLhyphen"/>tion, as was the Practice of the firſt Ages.</p>
+            <p>For ſince they poſſeſs what St. <hi>Paul</hi> with ſo much earneſtneſs and aſſiduity of Prayer wiſh'd the <hi>Epheſians;</hi>
+               <note place="margin">Epheſ. 1.17.</note> 
+               <hi>The ſpirit of wiſdom and revelation in the knowledge of God, the eyes of their underſtanding being enlightned, to diſcern what is the hope</hi> to which the Fa<g ref="char:EOLhyphen"/>ther of Glory <hi>calls them, and how great are the riches of the glory of his inheritance in his ſaints;</hi> We who are Candidates of that Wiſdom, who are cleanſing and preparing our Eyes for that Revelation, can do no
+<pb n="3" facs="tcp:204919:3"/>leſs then congratulate their Felicity, then celebrate their Victories, then attend their Triumphs. And ſince we all fight under the ſame Standard where they conquer'd, obſerve the ſame Order and Diſcipline which render'd them victorious, joyn in the ſame Faith, (or at leaſt in a preparation of mind to it) and in the ſame Practices of a holy Life, (or in a tendency to them) which produc'd their <hi>Reward</hi> in Heaven; So is it fitting that Once a year we draw all our Devotions together, which were diſpers'd thro' the revolution of their ſe<g ref="char:EOLhyphen"/>parate <hi>Feſtivals,</hi> and that the Church Mi<g ref="char:EOLhyphen"/>litant joyn <hi>in Body</hi> with the Triumphant, to contemplate that Glory which we hope one day will be our own, nay which is al<g ref="char:EOLhyphen"/>ready ours by Anticipation, becauſe it is that of our Fellow-Members and Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>For beſides the bleſſed hope that we ſhall arrive to the <hi>fellowſhip of the ſaints,</hi> a hope that do's not only intitle us to a Poſ<g ref="char:EOLhyphen"/>ſeſſion, but even <hi>gives</hi> while it <hi>promiſes,</hi> ſince They were in a mortal Condition whom he calls <hi>not ſtrangers and forreiners,</hi>
+               <note place="margin">Epheſ. 2.19.</note>
+               <pb n="4" facs="tcp:204919:4"/>
+               <hi>but citizens of the ſaints, and the houſhold of God.</hi> Beſides this, I ſay, there is not any one in this moſt Honorable and Religious Aſ<g ref="char:EOLhyphen"/>ſembly, that has not a <hi>peculiar</hi> intereſt in the Honor of this Day; There is not any one of us that do's not piouſly confide, that he has a Parent, or a Child, or a Re<g ref="char:EOLhyphen"/>lation, or a Friend, and what is an accu<g ref="char:EOLhyphen"/>mulative joy to a Chriſtian Heart, an <hi>Ene<g ref="char:EOLhyphen"/>my</hi> and <hi>Perſecutor</hi> enroll'd in this bleſſed Society. And how joyful a Reflection is it to your Sacred Majeſties, that ſo many of your Royal Anceſtors, and mighty Prede<g ref="char:EOLhyphen"/>ceſſors,
+<note place="margin">1 Pet. 5.4.</note> 
+               <hi>inherit a never-fading crown of glory,</hi> and poſſeſs a <hi>Kingdom</hi> which they do not tranſmit, but willingly ſhare with their Po<g ref="char:EOLhyphen"/>ſterity, without leſſening their Greatneſs! a <hi>Kingdom,</hi> where the Enjoyment is eter<g ref="char:EOLhyphen"/>nal, where <hi>Peace</hi> is eſſential, where the <hi>Lion</hi> and the <hi>Lamb</hi> lie down together, the <hi>red</hi> and <hi>white</hi> Roſes are twiſted in the ſame Garland, the <hi>Edwards</hi> and the <hi>Henrys</hi> em<g ref="char:EOLhyphen"/>brace, and the fierce <hi>Britain</hi> rejoyces that the Royal Blood of <hi>Scotland</hi> runs in <hi>Engliſh</hi> Veins. This bleſſed Expectation bore up their Spirits under the weight of
+<pb n="5" facs="tcp:204919:4"/>Cares and Solicitudes, which are inſepara<g ref="char:EOLhyphen"/>ble from an earthly Crown; it kept a rein upon the efferveſcence of Nature amidſt the Temptations that hover about a Court; it made them poſtpone the Mag<g ref="char:EOLhyphen"/>nificence of their State, to the adorning their Souls; and while they deſir'd what they did not ſee, made them contemn what they ſaw,
+<note place="margin">Phil. 3.8.</note> and <hi>count all as droſs that they might gain Chriſt.</hi> Now they ſee what they believ'd, they poſſeſs what they hop'd, they obtain what they deſir'd; and <hi>thus ſhall the man be bleſſed that fears our Lord;</hi> eſpecially your Sacred Majeſties, who inherit their Vertues no leſs then their Crowns, making it the principal Subject of your Joy, <hi>That your reward will be great in heaven.</hi> I beg alſo it may be the <hi>Subject</hi> of your Attention, after I have implor'd the aſſiſtance of Him that is the <hi>crown of all the Saints,</hi> and which I hope to obtain by her Interceſſion who is ſo dignifi'd a Mem<g ref="char:EOLhyphen"/>ber of that bleſſed Aſſembly, that if the o<g ref="char:EOLhyphen"/>ther Saints are the Friends and Dome<g ref="char:EOLhyphen"/>ſticks, ſhe alone is the <hi>Mother of God,</hi> be<g ref="char:EOLhyphen"/>coming ſo when the Angel Saluted her, <hi>Ave Maria.</hi>
+            </p>
+            <div type="part">
+               <pb n="6" facs="tcp:204919:5"/>
+               <head>Rejoyce, and be exceeding glad, for great is your reward in heaven.</head>
+               <p>THere never was a Queſtion <hi>ſtarted</hi> ſo early in the World, nor ſo warmly <hi>diſcuſs'd,</hi> and, what was moſt unhappy to Mankind, ſo late <hi>reſolv'd,</hi> as that of the Rational Soul exiſting in another World, and of a well-ſpent Life being attended with a Reward in Heaven. The ſober and ſound Men of every Age ſingled it out as the chiefeſt Object of their profoundeſt Speculation, and the <hi>Libertine</hi> made it the Subject of his Mirth and Raillery; with this only difference between other Times and theſe we live in, That the moſt Witty, and beſt Parted Men of the <hi>Gentiles,</hi> were the moſt ſerious Enquirers after this Verity, arriv'd to a <hi>glimpſe</hi> of it by the light of Nature, and wrought out an imperfect <hi>Idea</hi> of it by the force of Reaſon: But in our Days, in the <hi>Noon</hi> of Chriſtianity, and the cleareſt Propoſal of our <hi>End,</hi> it is be<g ref="char:EOLhyphen"/>come the Character of a <hi>Wit,</hi> either whol<g ref="char:EOLhyphen"/>ly to neglect this greateſt Concern, or to ſtudy the <hi>Reſolution</hi> meerly to revive the
+<pb n="7" facs="tcp:204919:5"/>
+                  <hi>Queſtion;</hi> and while the <hi>Heathen</hi> ſubmits to the Doctrine of <hi>Chriſt,</hi> the <hi>Chriſtian</hi> en<g ref="char:EOLhyphen"/>deavours to ſubject it once more to Diſ<g ref="char:EOLhyphen"/>pute; verifying the Paradox of the Phi<g ref="char:EOLhyphen"/>loſopher, <hi>That no one can be happy againſt his will, nor wou'd the ill Man be ſo by his good will.</hi>
+               </p>
+               <p>Indeed no Man can be ſo miſerable as not to deſire to be happy, and ſelf-love, which is the occaſion of his miſery, is the root of this deſire. But Men frame to themſelves ſo <hi>childiſh,</hi> ſo <hi>mean,</hi> or ſo <hi>ſenſual</hi> a Beatitude, that themſelves bluſh to own; but while they are not aſham'd to purſue it, they lay an Obligation upon us, <hi>who are the Diſpenſers of the Myſteries of God,</hi> to ſhew,</p>
+               <p>That there is no true happineſs to be found in the World (which is my Firſt Point;) unleſs it be in a firm Belief, <label type="milestone">
+                     <seg type="milestoneunit">Diviſion. </seg>1</label> and ſerious Practice of <hi>Chriſtian Religion,</hi> which is admirably compris'd in the Goſpel of the Day: This is my Second Point, <milestone type="tcpmilestone" unit="unspecified" n="2"/> and the only way that leads to a final Beatitude in Heaven (my laſt Conſideration) where it is beſtow'd as a <hi>reward</hi> of our Faith and <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <pb n="8" facs="tcp:204919:6"/>good Life, which ſhall make my Conclu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>I. THE Holy Ghoſt inſtructing King <hi>Solomon</hi> how to delineate the folly of Man, and his progreſs in it, who calcu<g ref="char:EOLhyphen"/>lates his Happineſs from worldly Enjoy<g ref="char:EOLhyphen"/>ments, reduces the multitude of our Er<g ref="char:EOLhyphen"/>rors and Miſtakes touching that Point, to <hi>Three</hi> principal <hi>Heads,</hi> as our Bleſſed Ma<g ref="char:EOLhyphen"/>ſter and <hi>Doctor of Juſtice,</hi> ſeated on a Moun<g ref="char:EOLhyphen"/>tain (to expreſs the ſublimeneſs of his Doctrine,) comprehends all the Methods leading to a true Felicity, in <hi>Eight Beati<g ref="char:EOLhyphen"/>tudes.</hi>
+               </p>
+               <p>For every Man that yields to the bent of Nature, ſeeks his Enjoyment either,
+<list>
+                     <item>1. In corporal Pleaſures, the Delights of the Senſes;</item>
+                     <item>2. Or in Honor and Greatneſs, the Delights of the Paſſions;</item>
+                     <item>3. Or in Wiſdom and Knowledge, the Delights of the Mind.</item>
+                  </list>
+               </p>
+               <p>A Gradation taken notice of by S. <hi>John,</hi>
+                  <pb n="9" facs="tcp:204919:6"/>tho' expreſs'd in other terms,
+<note place="margin">1 John 2.16.</note> 
+                  <hi>Concupiſcence of the fleſh, concupiſcence of the eyes, and pride of life.</hi>
+               </p>
+               <p>1<hi rend="sup">ſt.</hi> When a Man is arriv'd to the open<g ref="char:EOLhyphen"/>ing and bloom of his Reaſon, that part of Life we call <hi>Youth,</hi> he becomes more heady then to be govern'd intirely by the Reaſon of another, yet remains more weak and unſteddy then to be guided by his own: Wherefore <hi>Senſe</hi> takes the Chair, the heat of Blood and corruption of Nature put in for his boſom Counſellors, and by their advice he abandons himſelf to Libertiniſm and Diſorder. His Language and Behavi<g ref="char:EOLhyphen"/>our is admirably perſonated in the Book of <hi>Wiſdom; Let us go,</hi> ſays he,
+<note place="margin">Sap. 2.6, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>and enjoy the things that are before us.</hi> Et utamur creatura tanquam in juventute celeriter. <hi>Let us live apace, and uſe the creature before that and our youth paſs away. Let us bathe our temples in rich wines, and ſhed ſweet oynt<g ref="char:EOLhyphen"/>ments on our heads, let no flower of the field eſcape our hand; we will crown our ſelves with roſes before they wither; we will leave marks of our luxury and riot where-ever we go,</hi> Quoniam haec eſt pars noſtra, &amp; haec
+<pb n="10" facs="tcp:204919:7"/>eſt ſors, <hi>This is our portion, and this is our end;</hi>
+                  <note place="margin">1 Cor. 15.32.</note> 
+                  <hi>Let us eat and drink, for to morrow we ſhall die.</hi>
+               </p>
+               <p>But when by acceſs of years that irregu<g ref="char:EOLhyphen"/>lar Heat evaporates, and the Spirits grow more cool and temperate, he ſoon grows weary of ſuch Pleaſures as he finds by a woful Experience to ruine the Health and Conſtitution of his Body, and ſadly to de<g ref="char:EOLhyphen"/>face the Beauty of his Soul. Then he up<g ref="char:EOLhyphen"/>braids his charming Deceivers, and ex<g ref="char:EOLhyphen"/>poſtulates with the Objects of his folly; <hi>Riſum reputavi errorem,</hi>
+                  <note place="margin">Eccl. 2.2.</note> 
+                  <hi>&amp; gaudio dixi, cur fruſtra deciperis? Laughter and merri<g ref="char:EOLhyphen"/>ment I thought a cheat, and I ſaid to joy, Why haſt thou vainly deceiv'd me?</hi> For he plainly ſees, that can never be the Happineſs of a <hi>Reaſonable Creature,</hi> which is a torment to the <hi>Reaſon,</hi> and a remorſe to the <hi>Conſcience,</hi> where the <hi>Delight</hi> paſſes, and the <hi>Sting</hi> re<g ref="char:EOLhyphen"/>mains.</p>
+               <p>2<hi rend="sup">ly.</hi> With ſuch Reflections the <hi>Prodigal</hi> returning into himſelf, takes leave of his former Courſes, and enters upon another more refin'd and elevated, changing in<g ref="char:EOLhyphen"/>deed his <hi>Paſſion,</hi> but not his <hi>Slavery.</hi> He
+<pb n="11" facs="tcp:204919:7"/>quits the <hi>concupiſcence of the fleſh</hi> for <hi>concu<g ref="char:EOLhyphen"/>piſcence of the eyes,</hi> and <hi>pride of life;</hi> the <hi>proud</hi> and curious Perſon being only the <hi>ſenſual</hi> Man reform'd. He aſpires to Honor and Preferment, courts Fame and Eſteem, entertains the largeſt Retinue he can make, and worſhips the Populace, that they may return his Adoration with Intereſt; and, in a word, labours to hide and varniſh over the Stains of a corrupt and <hi>infamous Life,</hi> with the <hi>formalities</hi> and <hi>luſtre</hi> of Greatneſs. But no ſooner is he well acquainted with his new Choice, then he diſcovers the <hi>vanity</hi> and <hi>emptineſs</hi> of that too; the thing for which he is ſo valu'd by others, ſits un<g ref="char:EOLhyphen"/>eaſie upon his Shoulders; Uſe and Cuſtom take off the ſenſe of Pleaſure, and his Hap<g ref="char:EOLhyphen"/>pineſs corrupts into <hi>Affliction of ſpirit.</hi> He experiences that Honors too have their weight, that Dignities are Burthens and Servitude under a finer Name; <hi>Fulgidi compedes &amp; clara miſeria,</hi> Golden Fetters, and a dazling Miſery: Riches, but the oc<g ref="char:EOLhyphen"/>caſion of Diſquiet; Pomp, the object of Envy; Fame, but the opinion of Men, and of no longer duration then their other
+<pb n="12" facs="tcp:204919:8"/>Fancies.
+<note place="margin">Pſal. 75.6.</note> 
+                  <hi>Dormierunt ſomnum ſuum</hi> (ſays a Prince, as Great and Powerful, as he was Learn'd and Holy,) <hi>&amp; nihil invenerunt om<g ref="char:EOLhyphen"/>nes viri divitiarum in manibus ſuis;</hi> Thus <hi>the Rich and the Great ſleep out their golden dreams, and when they awake find nothing in their hands.</hi>
+               </p>
+               <p>3<hi rend="sup">ly.</hi> But perhaps the Contemplation of <hi>Wiſdom</hi> may afford a more ſolid fruition. To diſtinguiſh <hi>Verity</hi> from <hi>Vanity,</hi> Truth from Falſhood, ſeem to raiſe a Man above the level of Mankind, diſtinguiſhes him from the unthinking Multitude, and cuts off many Branches of our Miſery which ſpring from <hi>Ignorance,</hi> and want of Re<g ref="char:EOLhyphen"/>flexion. But alaſs, the Crop do's not an<g ref="char:EOLhyphen"/>ſwer the Tillage:
+<note place="margin">Eccleſ. 1.18.</note> 
+                  <hi>Qui addit ſcientam, addit &amp; laborem; He that increaſes knowledge, adds to his labour,</hi> but not to his ſatisfacti<g ref="char:EOLhyphen"/>on. In many things our <hi>Principles</hi> are meerly ſuppoſed, our <hi>Maxims</hi> prove but <hi>Opinions;</hi> the <hi>cauſes</hi> and <hi>natures</hi> of the low<g ref="char:EOLhyphen"/>eſt and moſt obvious things are ſo far a<g ref="char:EOLhyphen"/>bove our reach, and our Underſtanding ſo clouded and circumſcrib'd within ſo nar<g ref="char:EOLhyphen"/>row limits, that again with the wifeſt of
+<pb n="13" facs="tcp:204919:8"/>Men <hi>he deſerts all his labour,</hi> and diſcovers even This to be the <hi>greateſt vanity of all;</hi> while the fruit he reaps from ſo much pains,
+<note place="margin">1 Cor. 8.1.</note> amounts only to a <hi>puffing up of the mind</hi> (as the Apoſtle ſpeaks,) and as S. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> ingeniouſly Comments from his own experience, <hi>Superbae dejectioni &amp; inqui<g ref="char:EOLhyphen"/>etae laſſitudini,</hi> To a haughty dejection of Spirit, and reſtleſs wearineſs of Heart.</p>
+               <p>There is no Man that gives way to the Inclinations of corrupt Nature, but has follow'd one or more of theſe Courſes; and I appeal to his own experience, if he has not fail'd of his expectation: <hi>if his eye has been ſatisfi'd with ſeeing, or his ear with hearing, or his heart with deſiring.</hi> I allow him to have found a Beatitude where no wiſe Man wou'd have fought it. But while I ſee him like the <hi>Dove</hi> flying from the <hi>Ark,</hi> and not finding where he can <hi>reſt his foot;</hi> while I contemplate every Sinner in the ſtate of a weary and weather-beaten <hi>Tra<g ref="char:EOLhyphen"/>veller,</hi> that ſits down on the barren Sands in an untrac'd Deſert, uneaſie in himſelf, and uncertain whether he be nearer his Journeys end then when he firſt ſet out; I
+<pb n="14" facs="tcp:204919:9"/>am ready to pronounce with the Royal Prophet,
+<note place="margin">Pſal. 11.9.</note> 
+                  <hi>In circuitu impii ambulant; The wicked walk in a circle:</hi> They make forward in vain, they only change their <hi>Place</hi> by ſhifting their <hi>Pleaſures,</hi> but they approach not a Hairs-breadth nearer the Centre, <hi>Beatitude.</hi>
+               </p>
+               <p>You deſire to be happy; ſo far you are in the right, 'tis what you were created to: <hi>Bonum quaeris,</hi>
+                  <note place="margin">St. <hi>Aug.</hi>
+                  </note> 
+                  <hi>ſed non benè;</hi> What you ſeek is good, but 'tis not where you look after it;
+<note place="margin">Job. 28.13.</note> 
+                  <hi>It is not found in the land of thoſe that live deliciouſly,</hi> ſaid holy <hi>Job.</hi> You ſearch after <hi>Life</hi> in the <hi>Region of Death,</hi> and in deſpite of our Saviour's Admoni<g ref="char:EOLhyphen"/>tion, you are ſtill looking for <hi>Grapes</hi> upon <hi>Thorns,</hi> and <hi>Figs</hi> upon <hi>Thiſtles;</hi> for <hi>Joy</hi> in the <hi>Vale of Tears: non invenitur.</hi> You place your End among things inferiour to your ſelves;
+<note place="margin">Luc. 17.27.</note> you enquire after Happineſs among things without, while the <hi>Kingdom of God is within you.</hi>
+               </p>
+               <p>It is my Second Point, That nothing but <hi>Chriſtian Religion,</hi> and the obſervance of its <hi>Doctrines</hi> and <hi>Precepts,</hi> can make Man happy.</p>
+               <pb n="15" facs="tcp:204919:9"/>
+               <p>II. It is the peculiar advantage, the ex<g ref="char:EOLhyphen"/>cellence, and (as I may ſay) the <hi>incommu<g ref="char:EOLhyphen"/>nicable Attribute</hi> of <hi>Chriſt</hi>'s Doctrine, that it diſcovers a Man to himſelf, that it opens, and ſearches and heals thoſe Wounds, which all other Religions either <hi>imperfectly</hi> cure, as the <hi>Old Law;</hi> or labour to <hi>conceal,</hi> as the <hi>Moral of Philoſophy;</hi> or <hi>widen</hi> and <hi>inflame,</hi> as the <hi>Pagan</hi> and <hi>Mahometan</hi> Wor<g ref="char:EOLhyphen"/>ſhip. None but <hi>Chriſtianity</hi> propoſes an End worthy an intellectual Being, and pre<g ref="char:EOLhyphen"/>ſcribes Means to obtain it proportion'd to a reaſonable Agent.</p>
+               <p>For the <hi>Jewiſh Law,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">Rom. 7.12.</note> (as the Apoſtle ſays) indeed <hi>was juſt and holy,</hi> yet <hi>brought nothing to perfection;</hi>
+                  <note place="margin">Hebr. 7.19.</note> its <hi>Promiſes</hi> for the moſt part mean and carnal, a <hi>Land flowing with milk and hony,</hi> a <hi>numerous iſſue,</hi> and <hi>length of life:</hi> The Means ſervile and coactive, ter<g ref="char:EOLhyphen"/>rible in the Promulgation, amidſt Thunder and Lightning; Severe in the Exaction, with Menaces of Death, repeated at every turn; And in fine, difficult and heavy in the Execution, a yoke,
+<note place="margin">Acts 15.10.</note> 
+                  <hi>which neither our fathers,</hi> ſays St. Peter, <hi>nor we were able to bear.</hi>
+               </p>
+               <pb n="16" facs="tcp:204919:10"/>
+               <p>The Religion of the <hi>Pagans</hi> or <hi>Gentiles,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſtands condemn'd for no leſs then groſs and palpable Contradictions to the in-born Principles of <hi>Reaſon.</hi> For a fundamental Error in the Object of Divine Worſhip, by conſtituting a plurality of Gods, by pay<g ref="char:EOLhyphen"/>ing Divine Honors to Creatures. For the <hi>manner</hi> too of their Worſhip, humane and ungrounded Inventions, and theſe, either unnaturally cruel, as the ſacrificing of Men; or ſuperſtitiouſly fooliſh, as adoring I<g ref="char:EOLhyphen"/>dols; or ſhamefully unclean, ſuch as <hi>Cato,</hi> or any grave Perſon, wou'd bluſh to aſſiſt at. For the End, either meerly <hi>Negative,</hi> by teaching the mortality and periſhing of the Soul; or by <hi>aſſigning</hi> it an idle and empty Happineſs in the <hi>Elyſian Walks,</hi> which riſes no higher then to a meer pri<g ref="char:EOLhyphen"/>vation of Pain.</p>
+               <p>Every one knows the <hi>Doctrine</hi> of <hi>Maho<g ref="char:EOLhyphen"/>met</hi> to be ſtuff'd with ſo many Abſurdities, <milestone type="tcpmilestone" unit="unspecified" n="3"/> the <hi>Means</hi> of its propagation ſo violent and bloody, and the <hi>End</hi> (a carnal Paradice) ſo beneath the Inclinations of an honeſt Mind, that one may wonder how it can be favour'd by any, except that barbarous
+<pb n="17" facs="tcp:204919:10"/>People, whoſe Brutality it indulged, and with whoſe Arms it travell'd and con<g ref="char:EOLhyphen"/>quer'd. Believe me, Chriſtians, a juſt Pu<g ref="char:EOLhyphen"/>niſhment of God upon thoſe Nations (a Puniſhment which I pray may never come home to our own Doors,) for the abuſe and contempt of a more holy Reli<g ref="char:EOLhyphen"/>gion.</p>
+               <p>And theſe Religions conſider'd in their ſounder Parts, principally regard the exteri<g ref="char:EOLhyphen"/>or, and Ceremonies of Worſhip more then the Subſtance; they <hi>draw not Man into him<g ref="char:EOLhyphen"/>ſelf,</hi> and therefore merit not the Denomi<g ref="char:EOLhyphen"/>nation they bear; they are levell'd to the groſs Conceptions of the <hi>Vulgar,</hi> but are not Religions for Men of good <hi>Sence</hi> and <hi>Learning.</hi>
+               </p>
+               <p>A Religion purely ſpiritual, wou'd in<g ref="char:EOLhyphen"/>deed be more adapted to the Underſtand<g ref="char:EOLhyphen"/>ing of ſharp and Learned Men, but what wou'd become then of the far major part of Mankind, that is led by <hi>ſenſible to ſpiri<g ref="char:EOLhyphen"/>tual things?</hi> Now only <hi>Chriſtian Religion</hi> can pretend to this <hi>double perfection,</hi> being a debtor <hi>both to the Greeks and to the Barbari<g ref="char:EOLhyphen"/>ans, both to the wiſe and to the unwiſe,</hi> to the
+<pb n="18" facs="tcp:204919:11"/>Unlearned as well as to the Learned; ſhew<g ref="char:EOLhyphen"/>ing in her <hi>exterior</hi> a grave decency of Rites and Ceremonies; and offering to the <hi>interior</hi> a Doctrine ſo chaſt, ſo pure, ſo perfect, that a gentile and docil Soul wou'd be ſorry it ſhou'd not be true, and which a Man of Reaſon muſt acknowledge to be the <hi>only</hi> true one.</p>
+               <p>For that Religion can only be ſo, which propoſes to Man the <hi>knowledge of himſelf,</hi> as I before alledged; for without the diſ<g ref="char:EOLhyphen"/>covery of himſelf and of his Nature, he can never know what is his <hi>End,</hi> or what are the <hi>Means</hi> directing to it, and by evi<g ref="char:EOLhyphen"/>dent Conſequence can have no true Idea either of <hi>God</hi> or <hi>Vertue.</hi>
+               </p>
+               <p>Now to the knowledge of his <hi>own Nature,</hi> 'tis requiſite he diſcern the Dignity and Miſery of it; the Perfection of which it is ca<g ref="char:EOLhyphen"/>pable, and the Corruption in which it is im<g ref="char:EOLhyphen"/>merſed. <hi>If we do not conceive our ſelves to be moſt excellent and noble Creatures,</hi> (ſays an eminent Writer) <hi>we are intolerably ſtupid; and if we do not perceive at the ſame time, that we are wretched, full of pride, paſſion, and weakneſs, we are ſtrangely blind.</hi> Yet
+<pb n="19" facs="tcp:204919:11"/>not any <hi>Teacher</hi> beſides <hi>Jeſus Chriſt</hi> ever pretended to clear and lay open thoſe two important Verities, That by the <hi>excellency</hi> of our Nature we are capable of enjoying the ſovereign Good, and of reigning with God in Heaven; but by the <hi>Corruption</hi> of our Nature we are unworthy of him. 'Tis abſolutely and equally neceſſary in order to Man's Happineſs, that he be convinc'd of theſe Truths; for it is equally danger<g ref="char:EOLhyphen"/>ous to know our deſign'd <hi>End,</hi> without knowing our deſerv'd <hi>Miſery;</hi> and to know our Miſery, without knowing the Means how to repair our Ruines, to re<g ref="char:EOLhyphen"/>trieve our Innocence, to ward the Puniſh<g ref="char:EOLhyphen"/>ment, and to re-entitle us to the <hi>Reward in Heaven.</hi>
+               </p>
+               <p>But this is above the flight of <hi>Reaſon,</hi> without the aſſiſtance of <hi>Revelation,</hi> that is, <hi>Religion. Philoſophy</hi> leaves us quite in the dark, the <hi>Stoa</hi> and the <hi>Academy</hi> talk wildly upon the Point, and preſcribe Methods that can never be reduc'd to Practice, and would not do the work if they could be: And tho' divine <hi>Plato</hi> diſcover'd the Happineſs of the Creature to conſiſt in <hi>becoming like
+<pb n="20" facs="tcp:204919:12"/>the Creator;</hi> yet his <hi>Morals</hi> are as defective as thoſe of his Neighbours, and he muſt yield up his mighty <hi>Title</hi> to <hi>Jeſus Chriſt</hi> the <hi>Teacher of Juſtice,</hi> who in the Goſpel of this Day (which is the beginning of that truly divine Sermon recorded by the <hi>Evangeliſt</hi> in this and the two following Chapters) eſtabliſhes all the natural Princi<g ref="char:EOLhyphen"/>ples of Truth and Goodneſs, fills up the Imperfections of the <hi>Judaical,</hi> daſhes out the unlawful Permiſſions of the Heathen <hi>Moral,</hi> delivers a perfect Idea of <hi>the Sci<g ref="char:EOLhyphen"/>ence of Saints,</hi>
+                  <note place="margin">Sap. 10.10.</note> 
+                  <hi>Scientiae Sanctorum;</hi> and in a word, draws an exact Map of all the Ways that lead to our eternal Beatitude. To ſhew this is my laſt Point.</p>
+               <p>III. God often tells us in his holy Word, that he has <hi>ſet fire and water, good and evil before us,</hi> that we may ſtretch out our Hand to which we pleaſe, giving us ſuffi<g ref="char:EOLhyphen"/>cient ſtrength to <hi>purſue</hi> the one, and to <hi>avoid</hi> the other: In the right uſe of which liberty, and compliance with Divine Grace, conſiſts <hi>true wiſdom;</hi>
+                  <note place="margin">Eccleſ. 12.13.</note> for <hi>to fear God,</hi> which chiefly regards the avoiding of evil, and <hi>to keep his Commandments,</hi> which regards the
+<pb n="21" facs="tcp:204919:12"/>election of good, is <hi>the whole duty of man, Deum time,</hi> &amp;c.</p>
+               <p>Now this <hi>avoiding of evil</hi> is chiefly pla<g ref="char:EOLhyphen"/>ced in reſtraining our Affections, and wean<g ref="char:EOLhyphen"/>ing them from the love of temporal things; and becauſe (as S. <hi>Paul</hi> obſerves) <hi>thoſe that will be rich, fall into temptation,</hi>
+                  <note place="margin">1 Tim. 6.9.</note> 
+                  <hi>and the ſnare of the devil;</hi> Therefore <hi>Beati pauperes, Bleſſed are the poor.</hi> Yet becauſe a Man may turn his <hi>Poverty</hi> into a Subject of <hi>Vanity,</hi> and as <hi>Plato</hi> ſmartly reply'd to the <hi>Cynique,</hi> may tram<g ref="char:EOLhyphen"/>ple upon Riches and Greatneſs with great<g ref="char:EOLhyphen"/>er Pride then another retains them, There<g ref="char:EOLhyphen"/>fore, <hi>Beati pauperes ſpiritu;</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Bleſſed are the poor,</hi> not ſimply, but ſuch as are poor <hi>in ſpirit.</hi> For when God has beſtow'd upon you a plentiful Fortune, the Law of <hi>Chriſt</hi> do's not oblige you to renounce that as evil, which is the Gift of God, and a Bleſ<g ref="char:EOLhyphen"/>ſing; but to limit your Deſires, and to con<g ref="char:EOLhyphen"/>ſider your ſelf as his Steward, thro' whoſe Hands he conveys his Bleſſings unto your indigent Neighbour. This you muſt do, if you would <hi>avoid evil.</hi> But the <hi>election of good</hi> ſtops not here; <hi>Charitas Chriſti urget nos,</hi> The love of <hi>Chriſt</hi> carries us on to be
+<pb n="22" facs="tcp:204919:13"/>earneſt and zealous for the performance of every Duty; <hi>earneſt</hi> in our own Practice, and <hi>zealous</hi> to encourage others in the Ways of Heaven; <milestone type="tcpmilestone" unit="unspecified" n="3"/> Therefore <hi>Beati qui eſuriunt, Bleſſed are they that hunger and thirſt after juſtice,</hi> and when they arrive to the term of their labours, <hi>they ſhall be ſatisfi'd.</hi> But the mean time they muſt not loſe courage, if they meet with any oppoſition in the way;
+<note place="margin">2 Tim. 2.5.</note> for <hi>he ſhall not be crown'd that do's not fight lawfully.</hi> The <hi>Law of Arms</hi> to the Soldiers of <hi>Chriſt,</hi> is chiefly <hi>paſſive</hi> Valour. Prayers and Tears are the only Weapons of a <hi>Chriſtian,</hi> (ſay the Fathers) and thoſe that otherwiſe reſiſt,
+<note place="margin">Rom. 13.2.</note> (cries the Apoſtle) <hi>ſhall receive to themſelves damnation.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Therefore <hi>Beati qui perſecutionem patiuntur, Bleſſed are they that ſuffer perſecution for juſtice ſake.</hi> And that no one may think this a hard Leſſon, the Encouragement is ſo bright, that any wiſe Man as well as St. <hi>James,</hi> would <hi>count it all joy to fall into divers tem<g ref="char:EOLhyphen"/>ptations;</hi> for the <hi>reward is ſo great in Hea<g ref="char:EOLhyphen"/>ven,</hi> that nothing leſs then the <hi>Kingdom of Heaven</hi> it ſelf ſhall be the Reward: <hi>for theirs is the Kingdom of Heaven.</hi>
+               </p>
+               <pb n="23" facs="tcp:204919:13"/>
+               <p>Such is a Chriſtian in the <hi>Field;</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> but he is alſo the Member of <hi>Civil Society,</hi> and the beſt Conſtituted Government in the World; which teaches him ſuch Calm<g ref="char:EOLhyphen"/>neſs in his Motion, ſuch Modeſty in his Behaviour, ſuch Sincerity in his Dealings, ſuch a Command of his Paſſions, as ſet a Beauty on our <hi>Religion,</hi> which never any other ſo much as pretended to, as Cano<g ref="char:EOLhyphen"/>nize <hi>Civility,</hi> and make <hi>good Breeding</hi> a Chriſtian Vertue, worthy a <hi>Beatitude,</hi> for <hi>Bleſſed are the meek,</hi> deſerving a <hi>Reward, for they ſhall inherit the land,</hi> no queſtion that which the Pſalmiſt mentions,
+<note place="margin">Pſal. 26.13.</note> 
+                  <hi>the land of the living.</hi>
+               </p>
+               <p>But if you ſit down contented with your own Performances, you will fall ſhort of the Reward;
+<note place="margin">Eccl. 17.12.</note> Becauſe <hi>Mandavit unicuique de proximo ſuo; God has commanded every one to be concern'd for his Neighour.</hi> And it is not ſufficient to take notice of his <hi>cor<g ref="char:EOLhyphen"/>poral</hi> Wants, if you paſs by his <hi>ſpiritual</hi> unregarded. Therefore, <hi>Beati qui lugent;</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                  <hi>Bleſſed are thoſe that mourn,</hi> that lay to heart, and take home to themſelves the Exceſſes and Corruptions of their Fellow-Members.
+<pb n="24" facs="tcp:204919:14"/>For if the King and Prophet had reaſon to lay claim to a ſhare in the Merits of all good Men,
+<note place="margin">Pſal. 118.63.</note> 
+                  <hi>I am a partaker with all thoſe that fear thee, and keep thy commandments;</hi> have not we as much rea<g ref="char:EOLhyphen"/>ſon to apprehend we ſhall be accountable for all the Sins of Mankind that we can obviate, or for not bewailing them, if we cannot? and tho' the Effect correſpond not to our Endeavours, yet <hi>our reward ſhall be great in Heaven; Ipſi conſolabuntur, Such ſhall be comforted.</hi>
+               </p>
+               <p>But ſome Offences are directed againſt <hi>our ſelves,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> which we muſt be as ready to pardon, as to correct thoſe which are com<g ref="char:EOLhyphen"/>mitted againſt others; This being the He<g ref="char:EOLhyphen"/>roick, and (as I may ſay) the Specifick Ver<g ref="char:EOLhyphen"/>tue of a <hi>Chriſtian,</hi> inſpiring a Generoſity not only to paſs by an Injury, not only to ſcorn a Revenge, (a thing ſo ſweet to Na<g ref="char:EOLhyphen"/>ture, and ſo honorable to <hi>falſe Reputation</hi>) but even to bear above the <hi>Reſentment;</hi> and if I may apply the Apoſtle's Phraſe, <hi>To inſert the olive-branch into the wild olive,</hi> and graft Kindneſſes upon the Stock of Inju<g ref="char:EOLhyphen"/>ries and Ingratitude: for <hi>Bleſſed are the
+<pb n="25" facs="tcp:204919:14"/>merciful, for they ſhall obtain mercy.</hi> And tho' the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> properly ſignifies thoſe that give <hi>Alms,</hi> St. <hi>Auguſtine</hi> teaches us <hi>there is no Alms-deed like that of forgiving an Injury.</hi>
+               </p>
+               <p>Yet this Charity limited to our <hi>private</hi> Concerns, <milestone type="tcpmilestone" unit="unspecified" n="7"/> is not eaſily diſtinguiſh'd from <hi>Self-love;</hi> and <hi>to forgive that we may be for<g ref="char:EOLhyphen"/>given,</hi> carries ſo much of Intereſt along with it, that a Man who is not tender and compaſſionate to his Brother, is at the ſame time barbarous and inhumane to himſelf. Love, therefore, is of a more diffuſive qua<g ref="char:EOLhyphen"/>lity, and muſt extend to all thoſe Feuds and Differences which are daily breaking out between ſuch as have no other relation to our ſelves, then the common Bands of Humane Society. And upon this account <hi>Bleſſed are the peace-makers, Beati pacifici;</hi> a Benediction that reaches from the <hi>Cot<g ref="char:EOLhyphen"/>tager</hi> to the <hi>Monarch</hi> that ſits upon the Throne, takes in all Mankind that lends a Hand towards eſtabliſhing the <hi>Empire of Peace,</hi> but ſheds it ſelf more plentifully on the <hi>Head,</hi> that ſacred Head by whoſe moſt wiſe Conduct, and unwearied Induſtry,
+<pb n="26" facs="tcp:204919:15"/>we reſt this day in <hi>the beauty of Peace,</hi> while he ſits above a living Repreſentation of the only God we worſhip,
+<note place="margin">Pſal. 75.3.</note> 
+                  <hi>whoſe Place is made in peace.</hi> And if ſuch as contribute the moſt to the welfare of Mankind, de<g ref="char:EOLhyphen"/>ſerve a higher Reward, we that are in a lower Station, cannot envy them a more elevated Benediction; <hi>Quoniam Filii Dei vocabuntur, They ſhall be ſtil'd the Sons of God,</hi> becauſe they carry on the great Work which the <hi>Son of God</hi> began in the World, <hi>reaching from end to end powerfully, and diſ<g ref="char:EOLhyphen"/>poſing all things ſweetly,</hi>
+                  <note place="margin">Sap. 8.1.</note> as the Wiſe-man predicted; and by propagating a <hi>Bleſſed <g ref="char:V">Ʋ</g>nion</hi> in this nether <hi>Hieruſalem,</hi> antidate the Joys of that <hi>which is above, which is our Mother,</hi> and where all her Children <hi>have but one heart, and one ſoul;</hi> neither divided by Intereſt, nor diſquieted by Paſſion, nor ſtain'd by Imperfection; but perfectly re<g ref="char:EOLhyphen"/>ſembling that of their Bleſſed Maſter, de<g ref="char:EOLhyphen"/>ſcrib'd by the Apoſtle,
+<note place="margin">Hebr. 7.26.</note> 
+                  <hi>Holy, unblemiſhed, innocent, made higher then the Heavens,</hi> (which is only the Place of their Beatitude) the <hi>Beatitude</hi> it ſelf conſiſting in this, <milestone type="tcpmilestone" unit="unspecified" n="8"/> 
+                  <hi>Bleſ<g ref="char:EOLhyphen"/>ſed are the clean of heart, becauſe they ſhall
+<pb n="27" facs="tcp:204919:15"/>ſee God.</hi> I reſerved this to the laſt, it being the very top of the <hi>myſtical Ladder,</hi> where <hi>our Lord appears leaning;</hi> for <hi>upon ſuch his Spirit reſts,</hi> and by ſuch Purity they reſt eternally in him.</p>
+               <p>And now before I was aware I have clear'd the laſt Point that I deſign'd to Diſcourſe to you, the <hi>eſſential Glory</hi> of the Saints. <hi>Clear'd it,</hi> did I ſay? 'twas an im<g ref="char:EOLhyphen"/>proper word: Had I the Tongue of Men and Angels, I cou'd never expreſs what <hi>the heart of man cannot conceive;</hi>
+                  <note place="margin">1 Cor. 2.9.</note> and you know the Heart can conceive infinitely beyond what the Tongue can expreſs. The great <hi>Apoſtle</hi> in his Rapture to the <hi>Third Heaven,</hi> I am apt to think, among thoſe <hi>arcana verba,</hi>
+                  <note place="margin">2 Cor. 12.4.</note> thoſe <hi>unſpeakable words he heard,</hi> had ſome account of this bleſſed State; but he gives us no other Proſpect then <hi>thro' a Glaſs, and in a Riddle,</hi>
+                  <note place="margin">1 Cor. 13.12.</note> that <hi>we know now only in part;</hi> the reſt is wrapt up in the obſcurity of <hi>Faith,</hi> is left to the expectations of <hi>Hope,</hi> and an impoſſibility of Expreſſion, <hi>Non licet homini loqui.</hi>
+               </p>
+               <p>But while my Goſpel acquaints you that you ſhall <hi>ſee God,</hi> what need you more
+<pb n="28" facs="tcp:204919:16"/>to raiſe your Imaginations, to inflame your Hearts, to quicken and inſpirit your Deſires? or if the word <hi>ſeeing</hi> cannot put into you a lively Idea of that Glory, add to it the Explication in another Text,
+<note place="margin">John 17.3.</note> 
+                  <hi>This is eternal life, to KNOW thee, the true God, and whom thou haſt ſent, Jeſus Chriſt.</hi> To have our Underſtandings fill'd with a clear knowledge of the moſt perfect <hi>Being,</hi> of the ſovereign <hi>Truth,</hi> of the original <hi>Cauſe</hi> of things, and in that of all other Cauſes, Effects, and Productions, as well natural as ſupernatural, makes the <hi>Man of Reaſon,</hi> the <hi>Lover of Truth,</hi> to ſally out of himſelf, to ſtrive to break his Chains, and languiſh <hi>to be with Chriſt,</hi> and wiſh with the Royal Prophet,
+<note place="margin">Pſal. 55.6.</note> that <hi>He had the wings of a Dove, that he might flie, and be at reſt,</hi> in Contemplation of that ſelf-evident Truth, ſupream Reaſon, <hi>VERITY,</hi> (as I ſay) the chief Attribute of God.</p>
+               <p>But you are not to imagine that the Beatitude of the Saints is plac'd in a per<g ref="char:EOLhyphen"/>petual gazing upon the Divine Beauties, or in a ſterial Speculation of Truth; from the Mind it flows into the Heart,
+<pb n="29" facs="tcp:204919:16"/>from the Underſtanding into the Will, penetrating all the interior of the Soul, <hi>transforming her in a certain manner into God,</hi> begetting Ecſtaſies without emotion, Languiſhings without defect, Enjoyments without ſatiety, Love without meaſure, and Fruition without end.</p>
+               <p>O you Joys of Heaven, how do you ſwallow up our thoughts, and fill us at once with Pleaſure and Amazement! and yet we muſt cry out as the Queen of <hi>Sheba</hi> did when ſhe beheld a faint Repreſenta<g ref="char:EOLhyphen"/>tion of you in the Court of King <hi>Solomon,</hi> that <hi>Half your Delights have not been told us.</hi> Bleſſed are they that <hi>ſtand in thy Courts, and miniſter to thy King</hi> Day and Night; <hi>Day</hi> without <hi>Night</hi> I ſhou'd have ſaid, where every Moment is an Age,
+<note place="margin">Pſal. 89.4.</note> 
+                  <hi>Et mille Anni tanquam Dies,</hi> and a thouſand Years cannot fill up a Day: Love is the mea<g ref="char:EOLhyphen"/>ſure of this Duration, and the Eternity of God the meaſure of Love.</p>
+               <p>Bleſſed God! thy Nature is <hi>Goodneſs,</hi> and therefore thy Work muſt be <hi>Mercy;</hi> that thou art ſo free of thy Creatures, I do not wonder; thou beſtoweſt them on
+<pb n="30" facs="tcp:204919:17"/>Man, thy better Creation; but why art thou ſo liberal of <hi>thy Self?</hi> Why haſt thou prepar'd ſuch a Happineſs in Heaven for thoſe that are ſeeking a Paradice upon Earth? that are contented to barter their <hi>Eternal weight of Glory</hi> for a gaudy Trifle, for a ſhining piece of Earth, for the grati<g ref="char:EOLhyphen"/>fying a Luſt, or an Ambition, for a <hi>mean,</hi> or a <hi>ſordid,</hi> or at the beſt, but a <hi>momentary Pleaſure? Cur poſuiſti pretium in manu ſtulti?</hi> Why haſt thou laid ſuch an ineſti<g ref="char:EOLhyphen"/>mable Treaſure in the hands of ungrateful and inſenſible Men, that neither know the value, nor value the uſe?</p>
+               <p>No, Chriſtians, we have no reaſon to expoſtulate with our God; for tho' by condeſcending to our infirmity, he has underſet the Joys of his Kingdom, yet there are Conditions propos'd, and with<g ref="char:EOLhyphen"/>out the performance of which, there is no Heaven for us.
+<note place="margin">Apoc. 21.7.</note> 
+                  <hi>Qui vicerit poſſidebit haec; He that overcomes</hi> (ſays he) <hi>ſhall poſſeſs theſe things:</hi> And do we fondly promiſe our ſelves the Triumph before the Victory, or a Victory before we have ſtruck a Stroke? Indeed <hi>Chriſt</hi> bids us <hi>be confident,</hi>
+                  <note place="margin">John 16.33.</note> 
+                  <hi>for he has
+<pb n="31" facs="tcp:204919:17"/>overcome the world;</hi> but do's not he give us warning, that whoſoever obſerves not the ſame Diſcipline, <hi>takes not up his croſs,</hi>
+                  <note place="margin">Matth. 10.38.</note> 
+                  <hi>and follows him, is not worthy of him?</hi> But is not <hi>Jeſus Chriſt the author of eternal ſalva<g ref="char:EOLhyphen"/>tion?</hi>
+                  <note place="margin">Hebr. 4.9.</note> Yes (replies the Apoſtle) <hi>to them that obey him.</hi>
+                  <note place="margin">Rom. 1.17. Gal. 5.6.</note> But do's not <hi>the juſt man live by Faith?</hi> Yes, if it <hi>work by Charity:</hi> For he that truſts to the ſtrength of his Faith, without the ſupport of a good Life, is as blameable as the Apoſtles, when they re<g ref="char:EOLhyphen"/>joyced at their power of ejecting Devils. Tho' our Faith be of ſuch prevalency as to <hi>remove mountains,</hi> ſtill by Good-works <hi>we are to make our calling and election ſure,</hi>
+                  <note place="margin">2 Pet. 1.10.</note> ſtill we are to <hi>work out our ſalvation with fear and trembling,</hi>
+                  <note place="margin">Phil. 2.12.</note> and only rejoyce that <hi>our reward is great in Heaven,</hi> a Reward not beſtow'd on thoſe who <hi>ſtand all day idle in the market-place,</hi> but to thoſe that <hi>labour in the vineyard;</hi> a Reward that ſhall be diſtri<g ref="char:EOLhyphen"/>buted in <hi>number, weight,</hi> and <hi>meaſure,</hi> in proportion, and beyond all proportion to our ſmalleſt Performances; but ſhall be more plentifully beſtow'd on thoſe, who like your Sacred Majeſties, <hi>bear the burthen
+<pb n="32" facs="tcp:204919:18"/>of the heat, and of the day;</hi> which we wiſh for the good of your People, you may long ſupport, and hear, not till after a long and proſperous Reign, that comfortable Invitation of your <hi>Original,</hi>
+                  <note place="margin">Luc. 22.28.</note> 
+                  <hi>Ye are they which have continu'd with me in my temptati<g ref="char:EOLhyphen"/>ons, and I appoint unto you a Kingdom, as my Father hath appointed unto me; that you may eat and drink at my table in my Kingdom, and ſit on Thrones, judging the Tribes of</hi> your own <hi>Iſrael,</hi> In the Name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204919:18"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, for his Houſhold and Chappel, 1686.</head>
+            <list>
+               <item>REflections upon the Anſwer to the <hi>Papiſt Miſ-repreſented &amp;c.</hi> Directed to the Anſwerer. <hi>Quarto.</hi>
+               </item>
+               <item>
+                  <hi>Kalendarium Catholicum</hi> for the Year 1686. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Papiſts</hi> Proteſting againſt <hi>Proteſtant-Popery.</hi> In Anſwer to a Diſcourſe Entituled, <hi>A Papiſt not Miſ-repreſented by Pro<g ref="char:EOLhyphen"/>teſtants.</hi> Being a Vindication of the <hi>Papiſt Miſ-repreſented</hi> and <hi>Repreſented,</hi> and the <hi>Reflections</hi> upon the Anſwer. <hi>Quart.</hi>
+               </item>
+               <item>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutcheſs of <hi>York.</hi> Publiſhed by his Majeſty's Command. <hi>Folio.</hi>
+               </item>
+               <item>The Spirit of Chriſtianity. Publiſhed by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+               </item>
+               <item>The firſt Sermon Preach'd before their Majeſties in <hi>Engliſh</hi> at <hi>Windſor,</hi> on the firſt <hi>Sunday</hi> of <hi>October</hi> 1685. Publiſhed by his Majeſty's Command. <hi>Quarto.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
